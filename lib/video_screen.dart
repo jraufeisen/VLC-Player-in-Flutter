@@ -64,7 +64,7 @@ class _VideoScreenState extends State<VideoScreen>
 
     await vlcController.setVolume(0);
 
-    await Future.delayed(const Duration(milliseconds: 150), () async {
+    await Future.delayed(const Duration(milliseconds: 450), () async {
       await vlcController.pause();
       await vlcController.setTime(0);
       await vlcController.setVolume(100);
