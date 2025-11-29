@@ -13,7 +13,10 @@ This example project shows how to
 See [this question](https://stackoverflow.com/questions/66871734/fullscreen-flutter-vlc-player
 ) on stackoverflow for more guidance.
 
-https://user-images.githubusercontent.com/3852580/185806801-3b5c43f5-12fd-47fd-8620-dc2b4d10dfab.mp4
+
+https://github.com/user-attachments/assets/fffe97f9-b1aa-4f33-90c5-f39cdb3e1e25
+
+https://github.com/user-attachments/assets/c9286a36-391b-44b5-9f07-f97a58a229c4
 
 
 ### Legal
