@@ -2,7 +2,7 @@ PODS:
   - Flutter (1.0.0)
   - flutter_vlc_player (3.0.3):
     - Flutter
-    - MobileVLCKit (~> 3.6.0b9)
+    - MobileVLCKit (~> 3.6.0b12)
   - MobileVLCKit (3.6.1b1)
 
 DEPENDENCIES:
@@ -21,7 +21,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  flutter_vlc_player: 2e318881576450ff081eb023d47c289f2c6681eb
+  flutter_vlc_player: 68553dec38187c14a7800e6d27a30bf9b25b53bc
   MobileVLCKit: 2d9c7c373393ae43086aeeff890bf0b1afc15c5c
 
 PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048

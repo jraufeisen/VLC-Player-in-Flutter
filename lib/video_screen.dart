@@ -55,7 +55,7 @@ class _VideoScreenState extends State<VideoScreen>
     _targetVideoScale = newValue;
   }
 
-  // Workaround the following bugs:
+  // Workaround for the following bugs:
   // https://github.com/s12olid-software/flutter_vlc_player/issues/335
   // https://github.com/solid-software/flutter_vlc_player/issues/336
   Future<void> _stopAutoplay() async {
@@ -64,7 +64,7 @@ class _VideoScreenState extends State<VideoScreen>
 
     await vlcController.setVolume(0);
 
-    await Future.delayed(const Duration(milliseconds: 450), () async {
+    await Future.delayed(const Duration(milliseconds: 550), () async {
       await vlcController.pause();
       await vlcController.setTime(0);
       await vlcController.setVolume(100);
